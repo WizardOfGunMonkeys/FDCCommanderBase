@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FDCCommanderBase", "FDCCommanderBase\FDCCommanderBase.shproj", "{1F6E5DB1-ABD3-4DAC-B40F-FE7CACF4DF68}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FDCCommanderBase\FDCCommanderBase.projitems*{1f6e5db1-abd3-4dac-b40f-fe7cacf4df68}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
