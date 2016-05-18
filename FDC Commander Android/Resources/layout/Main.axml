@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/textClock1"
         android:textAlignment="center"
-        android:textSize="50"
         android:textStyle="bold" />
     <ProgressBar
         style="?android:attr/progressBarStyleHorizontal"

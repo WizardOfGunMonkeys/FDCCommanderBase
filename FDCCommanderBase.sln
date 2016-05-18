@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDC Commander iOS", "FDC Co
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FDCCommanderBase\FDCCommanderBase.projitems*{93bc34b3-0f78-4f11-82be-8c88d48cad3d}*SharedItemsImports = 4
 		FDCCommanderBase\FDCCommanderBase.projitems*{305112e2-42fc-4c97-828e-435eb257379b}*SharedItemsImports = 4
 		FDCCommanderBase\FDCCommanderBase.projitems*{1f6e5db1-abd3-4dac-b40f-fe7cacf4df68}*SharedItemsImports = 13
 	EndGlobalSection
