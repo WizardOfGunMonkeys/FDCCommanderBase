@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace FDC_Commander_Android
 {
-    [Activity(Label = "FDC_Commander_Android", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "FDC Commander Android", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
