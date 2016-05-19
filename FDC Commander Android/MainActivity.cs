@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace FDC_Commander_Android
 {
-    [Activity(Label = "FDC Commander Android", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(MainLauncher = true, Icon = "@drawable/mortar_tool_icon_72")]
     public class MainActivity : Activity
     {
         int count = 1;
@@ -25,6 +25,7 @@ namespace FDC_Commander_Android
             Button button = FindViewById<Button>(Resource.Id.MyButton);
 
             button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
+            //Android.Speech.Tts.TextToSpeech.Speak("hello");
         }
     }
 }
